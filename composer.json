@@ -1,5 +1,5 @@
 {
-  "name": "darkmukke/common",
+  "name": "darkmukke/phpcommon",
   "description": "Darkmukke's common php classes and helpers\b",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-0": {
-      "DM\\Common\\": "src/"
+      "DarkMukke\\Common\\": "src/"
     }
   }
 }
